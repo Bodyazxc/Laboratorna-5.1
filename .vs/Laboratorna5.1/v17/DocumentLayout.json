@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40B2127C-F334-4594-B590-06C533AD8976}|UnitTest2\\UnitTest2.vcxproj|C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40B2127C-F334-4594-B590-06C533AD8976}|UnitTest2\\UnitTest2.vcxproj|solutionrelative:UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{587909FB-4040-4988-8475-1CF8A96E056B}|Laboratorna5.1\\Laboratorna5.1.vcxproj|C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\Laboratorna5.1\\Laboratorna5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{587909FB-4040-4988-8475-1CF8A96E056B}|Laboratorna5.1\\Laboratorna5.1.vcxproj|solutionrelative:Laboratorna5.1\\Laboratorna5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest2.cpp",
+              "DocumentMoniker": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\UnitTest2\\UnitTest2.cpp",
+              "RelativeDocumentMoniker": "UnitTest2\\UnitTest2.cpp",
+              "ToolTip": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\UnitTest2\\UnitTest2.cpp",
+              "RelativeToolTip": "UnitTest2\\UnitTest2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T17:01:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Laboratorna5.1.cpp",
               "DocumentMoniker": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\Laboratorna5.1\\Laboratorna5.1.cpp",
               "RelativeDocumentMoniker": "Laboratorna5.1\\Laboratorna5.1.cpp",
               "ToolTip": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna5.1\\Laboratorna5.1\\Laboratorna5.1.cpp",
               "RelativeToolTip": "Laboratorna5.1\\Laboratorna5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-30T18:47:19.024Z",
               "EditorCaption": ""
